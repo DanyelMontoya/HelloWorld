@@ -1,0 +1,13 @@
+c:\users\julianandres\documents\visual studio 2015\Projects\helloworld\helloworld\obj\Debug\helloworld.csprojResolveAssemblyReference.cache
+c:\users\julianandres\documents\visual studio 2015\Projects\helloworld\helloworld\bin\Debug\helloworld.dll
+c:\users\julianandres\documents\visual studio 2015\Projects\helloworld\helloworld\bin\Debug\helloworld.pdb
+c:\users\julianandres\documents\visual studio 2015\Projects\helloworld\helloworld\bin\Debug\helloworld.helloworld.apk
+c:\users\julianandres\documents\visual studio 2015\Projects\helloworld\helloworld\bin\Debug\helloworld.helloworld-Signed.apk
+c:\users\julianandres\documents\visual studio 2015\Projects\helloworld\helloworld\obj\Debug\helloworld.dll
+c:\users\julianandres\documents\visual studio 2015\Projects\helloworld\helloworld\obj\Debug\helloworld.pdb
+c:\users\julianandres\documents\visual studio 2015\Projects\helloworld\helloworld\obj\Debug\android\bin\helloworld.helloworld.apk
+c:\users\julianandres\documents\visual studio 2015\Projects\helloworld\helloworld\obj\Debug\res\layout\main.xml
+c:\users\julianandres\documents\visual studio 2015\Projects\helloworld\helloworld\obj\Debug\res\values\strings.xml
+c:\users\julianandres\documents\visual studio 2015\Projects\helloworld\helloworld\obj\Debug\res\drawable\icon.png
+c:\users\julianandres\documents\visual studio 2015\Projects\helloworld\helloworld\obj\Debug\R.cs.flag
+c:\users\julianandres\documents\visual studio 2015\Projects\helloworld\helloworld\obj\Debug\uploadflags.txt
